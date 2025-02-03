@@ -1,4 +1,11 @@
 hi i am sahil and this is my code
-bhs
-sbhjc,shjbsbmbm
-snchjsdghcvbsvbn
+
+include <stdio.h>
+int main()
+ {
+    printf()
+   printf("Hello, sahil!");
+   return 0;
+}
+
+hi i made chnages to push code
