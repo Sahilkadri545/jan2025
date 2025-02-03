@@ -4,8 +4,14 @@ include <stdio.h>
 int main()
  {
     printf()
+<<<<<<< HEAD
    printf("Hello, sahil!");
    return 0;
 }
 
 hi i made chnages to push code
+=======
+   printf("Hello, World!");
+   return 0;
+}
+>>>>>>> 27dd070da80861e671aaae694575f1a3acf536c5
